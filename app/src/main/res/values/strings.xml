@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BMI_Akmal_Mahmudov</string>
+    <string name="add_bmi_details">Add BMI Details</string>
+    <string name="enter_personal_detail">Enter Personal Detail</string>
+    <string name="name">Name</string>
+    <string name="desc">Calculate Your Body Mass Index</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="gender">Gender</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi_details">BMI Details</string>
+    <string name="body_mass_index">BODY MASS INDEX</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="recheck">Please enter your name</string>
+    <string name="sww">Something went wrong</string>
+    <string name="normal_bmi">Normal BMI range: 18.5kg/m2 – 25kg/m2</string>
+    <string name="index">Ponderal Index: %s kg/m3</string>
+    <string name="greeting">HELLO %s</string>
+    <string name="status">YOU ARE %s</string>
+    <string name="normal">NORMAL</string>
+    <string name="underweight">UNDERWEIGHT</string>
+    <string name="overweight">OVERWEIGHT</string>
+    <string name="ad">Ad</string>
+    <string name="install">install</string>
+</resources>
